@@ -1,0 +1,9 @@
+cpu: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+logical_cores: 16
+ram_gb: 39,7
+os: Windows-10-10.0.26100-SP0
+python: 3.9.0
+numpy: 2.0.2
+scipy: 1.13.1
+pandas: 2.3.3
+pymoo: 0.6.1.5

@@ -1,0 +1,11 @@
+# Exact versions used for all results of the C&OR manuscript (Python 3.13.16, Linux x86-64)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1          # MILP solved with scipy.optimize.milp (HiGHS bundled with SciPy)
+highspy==1.15.1        # HiGHS version reported in results/revision/milp_meta.csv
+pymoo==0.6.2
+matplotlib==3.11.2
+sympy==1.14.0
+openpyxl==3.1.5
+xlrd==2.0.2
+pytest==9.1.1

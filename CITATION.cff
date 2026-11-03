@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Rank-reversal-aware calibration of PROMETHEE II (code, data and results)"
+authors:
+  - family-names: Omari
+    given-names: Youcef
+  - family-names: Reguieg
+    given-names: Seddik
+version: 1.0.0
+license: MIT
+preferred-citation:
+  type: article
+  title: "Rank-reversal-aware calibration of PROMETHEE II"
+  authors:
+    - family-names: Omari
+      given-names: Youcef
+    - family-names: Reguieg
+      given-names: Seddik
+  journal: "Computers & Operations Research"
+  notes: "Manuscript submitted"
