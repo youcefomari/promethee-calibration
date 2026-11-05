@@ -1,0 +1,10 @@
+[project]
+name = "gpii"
+version = "0.1.0"
+description = "Rank-reversal-aware calibration of PROMETHEE II: exact rank-reversal counting, evolutionary search and certified mixed-integer optimisation"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "pandas>=2.1", "scipy>=1.11", "matplotlib>=3.8", "openpyxl>=3.1", "xlrd>=2.0", "pymoo>=0.6.1"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,69 @@
+Level,iCode,iName,Direction,Weight,Unit,Target,Denominator,Parent,Type
+1.0,LPI,Logistics Performance Index,1.0,1.0,Score 1-5,4.11803135,,Physical,Indicator
+1.0,Flights,International flights passenger capacity,1.0,1.0,Thousand seats,200.3326555,Population,Physical,Indicator
+1.0,Ship,Liner Shipping Connectivity Index,1.0,1.0,Score,20.113377295,,Physical,Indicator
+1.0,Bord,Border crossings,1.0,1.0,Number of crossings,115.9,Area,Physical,Indicator
+1.0,Elec,Trade in electricity,1.0,1.0,TWh,104.67058469166668,Energy,Physical,Indicator
+1.0,Gas,Trade in gas,1.0,1.0,Billion tonnes,90.06042049999999,Energy,Physical,Indicator
+1.0,ConSpeed,Average connection speed,1.0,1.0,Mbps,27.445,,Physical,Indicator
+1.0,Cov4G,Population covered by at least a 4G mobile network,1.0,1.0,Percent,95.0,,Physical,Indicator
+1.0,Goods,Trade in goods,1.0,1.0,Trillion USD,1823.5959954999998,GDP,ConEcFin,Indicator
+1.0,Services,Trade in services,1.0,1.0,Million USD,624.3224775,GDP,ConEcFin,Indicator
+1.0,FDI,Foreign direct investment,1.0,1.0,Billion USD,71.8265,GDP,ConEcFin,Indicator
+1.0,PRemit,Personal remittances (received and paid),1.0,1.0,Million USD,28.7077207041447,GDP,ConEcFin,Indicator
+1.0,ForPort,Foreign portfolio investment liabilities and assets,1.0,1.0,Million USD,10071.6625945,GDP,ConEcFin,Indicator
+1.0,Embs,Embassies network,1.0,1.0,Number,96.4,,Political,Indicator
+1.0,IGOs,Participation in international intergovernmental organisations,1.0,1.0,Number,316.65,,Political,Indicator
+1.0,UNVote,UN voting alignment,1.0,1.0,Score,42.814530312038514,,Political,Indicator
+1.0,CostImpEx,Cost to export/import,-1.0,1.0,Current USD,49.6,,Instit,Indicator
+1.0,Tariff,Mean tariff rate,-1.0,1.0,Percent,0.5265,,Instit,Indicator
+1.0,TBTs,Technical barriers to trade,-1.0,1.0,"Number of measures (initiated, in force)",88.65,,Instit,Indicator
+1.0,TIRcon,Signatory of TIR Convention,1.0,1.0,(1 (yes)/0 (no)),0.95,,Instit,Indicator
+1.0,RTAs,Regional trade agreements,1.0,1.0,Number of bilateral connections,43.75,,Instit,Indicator
+1.0,Visa,Visa-free or visa-on-arrival,1.0,1.0,Number of countries,87.45,,Instit,Indicator
+1.0,StMob,International student mobility in tertiary education,1.0,1.0,Thousands international students,422.8385,Population,P2P,Indicator
+1.0,Research,Research outputs with international collaborations,1.0,1.0,Number,91528.9,GDP,P2P,Indicator
+1.0,Pat,Patents with foreign co-inventor,1.0,1.0,Number,2633.1299999999997,GDP,P2P,Indicator
+1.0,CultServ,Trade in cultural services,1.0,1.0,Million USD,9.091595,GDP,P2P,Indicator
+1.0,CultGood,Trade in cultural goods,1.0,1.0,Million USD,70.74690000000001,GDP,P2P,Indicator
+1.0,Tourist,Tourist arrivals at national borders,1.0,1.0,Number of people,78.44775,Population,P2P,Indicator
+1.0,MigStock,Migrant stock,1.0,1.0,Thousands people,10.38616,Population,P2P,Indicator
+1.0,Lang,Common languages users,1.0,1.0,Score,20.411939958028626,,P2P,Indicator
+1.0,Renew,Renewable energy in total final energy consumption,1.0,1.0,Percent,61.67833386692223,,Environ,Indicator
+1.0,PrimEner,Primary energy use per GDP,-1.0,1.0,kg of oil equivalent per $1000 GDP (constant 2011 PPP),60.42715702512122,,Environ,Indicator
+1.0,CO2,CO2 emissions per capita,-1.0,1.0,Tonnes per capita,1.3885759016039236,,Environ,Indicator
+1.0,MatCon,Domestic material consumption per capita,-1.0,1.0,Tonnes per capita,4.3673444446000005,,Environ,Indicator
+1.0,Forest,Net forest loss,-1.0,1.0,Percent,1.9023483645445065,,Environ,Indicator
+1.0,Poverty,Population living below the intenational poverty line,-1.0,1.0,Percent,1.135,,Social,Indicator
+1.0,Palma,Palma Index,-1.0,1.0,Ratio,0.9670000000000001,,Social,Indicator
+1.0,TertGrad,Tertiary graduates,1.0,1.0,Percent,35.825188499999996,,Social,Indicator
+1.0,FreePress,Freedom of the press,-1.0,1.0,Score,11.95,,Social,Indicator
+1.0,TolMin,Tolerance for minorities,-1.0,1.0,Score,1.535,,Social,Indicator
+1.0,NGOs,Presence of international non-governmental organisations,1.0,1.0,"Number of secretariats per 1,000 inhabitants",1732.8,Population,Social,Indicator
+1.0,CPI,Corruption Perceptions Index,1.0,1.0,Score,85.6,,Social,Indicator
+1.0,FemLab,Female labour-force participation,1.0,1.0,Ratio,0.9909484074837452,,Social,Indicator
+1.0,WomParl,Women's participation in national parliaments,1.0,1.0,Percent,41.618264999999994,,Social,Indicator
+1.0,PubDebt,Public debt as a percentage of GDP,-1.0,1.0,Percent,15.0685,,SusEcFin,Indicator
+1.0,PrivDebt,"Private debt, loans and debt securities as percentage of GDP",-1.0,1.0,Percent,39.759493196779005,,SusEcFin,Indicator
+1.0,GDPGrow,GDP per capita growth,1.0,1.0,Percent,7.166494989850719,,SusEcFin,Indicator
+1.0,RDExp,R&D expenditure as a percentage of GDP,1.0,1.0,Percent,4.020985,,SusEcFin,Indicator
+1.0,NEET,"Proportion of youth not in education, employment or training",-1.0,1.0,Percent,2.6750000000000003,,SusEcFin,Indicator
+2.0,Physical,Physical,1.0,1.0,Score,,,Conn,Aggregate
+2.0,ConEcFin,Economic and Financial (Con),1.0,1.0,Score,,,Conn,Aggregate
+2.0,Political,Political,1.0,1.0,Score,,,Conn,Aggregate
+2.0,Instit,Institutional,1.0,1.0,Score,,,Conn,Aggregate
+2.0,P2P,People to People,1.0,1.0,Score,,,Conn,Aggregate
+2.0,Environ,Environmental,1.0,1.0,Score,,,Sust,Aggregate
+2.0,Social,Social,1.0,1.0,Score,,,Sust,Aggregate
+2.0,SusEcFin,Economic and Financial (Sus),1.0,1.0,Score,,,Sust,Aggregate
+3.0,Conn,Connectivity,1.0,1.0,Score,,,Index,Aggregate
+3.0,Sust,Sustainability,1.0,1.0,Score,,,Index,Aggregate
+4.0,Index,Sustainable Connectivity,1.0,1.0,Score,,,,Aggregate
+,GDP_group,GDP group,,,,,,,Group
+,GDPpc_group,GDP per capita group,,,,,,,Group
+,Pop_group,Population group,,,,,,,Group
+,EurAsia_group,Europe or Asia,,,,,,,Group
+,Area,Land area,,,Thousand square km,,,,Denominator
+,Energy,Energy consumption,,,Unit,,,,Denominator
+,GDP,GDP,,,USD Bn,,,,Denominator
+,Population,Population,,,Thousands,,,,Denominator
